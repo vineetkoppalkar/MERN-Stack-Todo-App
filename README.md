@@ -2,10 +2,10 @@
 An app to manage todos. A website created to practice MERN stack development
 
 # MERN
-M: MongoDB
-E: Express
-R: React
-N: NodeJS
+M: MongoDB <br/>
+E: Express <br/>
+R: React <br/>
+N: NodeJS <br/>
 
 # Directory
 Frontend: mern-todo-app
