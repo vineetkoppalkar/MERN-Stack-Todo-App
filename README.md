@@ -1,6 +1,12 @@
 # MERN-Stack-Todo-App
 An app to manage todos. A website created to practice MERN stack development
 
+# MERN
+M: MongoDB
+E: Express
+R: React
+N: NodeJS
+
 # Directory
 Frontend: mern-todo-app
 Backend: mern-todo-backend
