@@ -19,7 +19,6 @@ Backend: mern-todo-backend
 - body-parser
 - cors
 - mongoose
-- nodemon
 - MongoDB
 - Postman
 - Axios
