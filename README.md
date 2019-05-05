@@ -8,7 +8,7 @@ R: React <br/>
 N: NodeJS <br/>
 
 # Directory
-Frontend: mern-todo-app
+Frontend: mern-todo-app <br/>
 Backend: mern-todo-backend
 
 # Setup
