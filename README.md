@@ -12,6 +12,7 @@ Frontend: mern-todo-app <br/>
 Backend: mern-todo-backend
 
 ### Setup
+0. Run `npm install` to get all dependencies
 1. Run MongoDB database with `mongod` (`mongod --storageEngine=mmapv1 --dbpath <PATH to /bin>`)
 2. Run frontend with `npm start` in `mern-todo-app` 
 3. Run backend with `node server.js` in `mern-todo-backend`
